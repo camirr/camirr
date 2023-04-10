@@ -1,16 +1,17 @@
-### Hi there 👋
+# 🙋🏻‍♀️ About me
 
-<!--
-**camirr/camirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello there, my name is [Camilla Ren (she/her/hers)], an enthusiastic third year student in the University of British Columbia interesting in **Computer Science, Data Science, Mathematics**.
 
-Here are some ideas to get you started:
+I am mostly interested in data mining, data visualization, statistical analysis, web development, software development, image recognition, and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👩 Connect with me!
+- If you have any feedbacks/ questions; I would love to chat! do reach out to my [email](camillarr1002@gmail.com) - camillarr1002@gmail.com 💬
+- Currently looking for a **internship** for 2-4 months starting from **May 2023**.
+
+### 👩🏻‍💻 Technical Skills
+
+[![My Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,html,java,r,css,unity,js,cs&theme=dark)](https://skillicons.dev)
+</br>
+
+[![My Programming Tools](https://skillicons.dev/icons?i=idea,atom,git,matlab,visualstudio,vscode,github&theme=dark)](https://skillicons.dev)
+</br>
