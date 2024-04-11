@@ -1,6 +1,6 @@
 # 🙋🏻‍♀️ About me
 
-Hey there, my name is **Camilla Ren**, an enthusiastic third year student at the University of British Columbia studying in **Mathematics and Data Science**.
+Hey there, my name is **Camilla Ren**, an enthusiastic fourth year student at the University of British Columbia studying in **Mathematics and Data Science**.
 
 I am mostly interested in data mining, data visualization, statistical analysis, web development, software development, and machine learning.
 
