@@ -6,7 +6,7 @@ I am mostly interested in data mining, data visualization, statistical analysis,
 
 ### 👩 Connect with me!
 - If you have any feedbacks/questions; I would love to chat! Reach out at camillarr1002@gmail.com 
-- Currently looking for an **internship** for 2-4 months starting from **May 2023**.
+- Currently looking for an **internship** for 2-4 months starting from **May 2024**.
 
 ### 👩🏻‍💻 Technical Skills
 
