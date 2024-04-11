@@ -10,7 +10,7 @@ I am mostly interested in data mining, data visualization, statistical analysis,
 
 ### 👩🏻‍💻 Technical Skills
 
-[![My Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,html,java,r,css,unity,js,cs&theme=dark)](https://skillicons.dev)
+[![My Programming Languages](https://skillicons.dev/icons?i=py,c,cpp,html,java,r,css,unity,js,SQL,cs&theme=dark)](https://skillicons.dev)
 </br>
 
 [![My Programming Tools](https://skillicons.dev/icons?i=idea,atom,git,matlab,visualstudio,vscode,github&theme=dark)](https://skillicons.dev)
