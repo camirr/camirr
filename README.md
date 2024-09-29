@@ -7,6 +7,7 @@
 👩🏻‍💻 I'm engaged in cutting-edge AI and machine learning projects, enhancing my skills in both theoretical and applied data analytics. My professional experience includes roles such as Junior Developer at UBC, where I significantly improved process efficiencies through automation, and Research Assistant, where I applied statistical models to predict environmental trends accurately.
 
 💻 Programming Languages: Python, R, SQL, Java, C/C++, HTML, CSS, JavaScript
+
 💻 Development Tools: AWS, Github, CI/CD, Docker, Eclipse, Oracle, JupyterLab, VS Code, IntelliJ, PyCharm, R Studio
 
 I'm keen to apply my analytical and development skills in a dynamic environment, making a tangible impact through technology. Please reach out if you have opportunities that align with my skills and ambitions😊😊😊
