@@ -1,8 +1,8 @@
 # 🙋🏻‍♀️ About me
 
-👩 Hi, I'm Camilla Ren, actively seeking 2025 Summer Co-op/Intern Opportunities or 2025 New Grad roles!
+👩 Hi, I'm Camilla Ren!
 
-🎓 As a driven Data Analyst and Developer, I am currently pursuing a Master of Data Analytics at Western University, building on my undergraduate experience in Mathematics and Data Science from UBC. Passionate about Big Data, AI, and Machine Learning, I specialize in leveraging these technologies to tackle complex challenges across various industries, aiming to create impactful technological solutions.
+🎓 As a driven Data Enthusiast, I am currently pursuing a Master of Data Analytics at Western University, building on my undergraduate experience in Mathematics and Data Science from UBC. Passionate about Big Data, AI, and Machine Learning, I leverage advanced technologies to tackle complex challenges across various industries, aiming to create impactful technological solutions.
 
 👩🏻‍💻 I'm engaged in cutting-edge AI and machine learning projects, enhancing my skills in both theoretical and applied data analytics. My professional experience includes roles such as Junior Developer at UBC, where I significantly improved process efficiencies through automation, and Research Assistant, where I applied statistical models to predict environmental trends accurately.
 
